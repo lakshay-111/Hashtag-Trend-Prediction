@@ -1,0 +1,184 @@
+{
+  "model_metadata": {
+    "name": "TrendPulse AI - Virality & Forecasting Engine",
+    "framework": "Scikit-Learn Gradient Boosting & Random Forest Ensembles",
+    "training_samples": 3600,
+    "test_samples": 900,
+    "feature_count": 20,
+    "features": [
+      "vol_curr",
+      "vol_lag1",
+      "vol_lag2",
+      "vol_lag3",
+      "vol_lag6",
+      "vol_lag12",
+      "velocity_1h",
+      "velocity_3h",
+      "velocity_6h",
+      "accel_1h",
+      "mean_vol_6h",
+      "std_vol_6h",
+      "max_vol_12h",
+      "sent_curr",
+      "sent_mean_6h",
+      "sent_extremity",
+      "degree_centrality",
+      "hour_sin",
+      "hour_cos",
+      "day_of_week"
+    ]
+  },
+  "classification_metrics": {
+    "accuracy": 0.9533,
+    "random_forest_accuracy": 0.8989,
+    "precision_macro": 0.9718,
+    "recall_macro": 0.9069,
+    "f1_macro": 0.9362,
+    "confusion_matrix": [
+      [
+        578,
+        5,
+        0,
+        0
+      ],
+      [
+        23,
+        214,
+        0,
+        0
+      ],
+      [
+        2,
+        11,
+        52,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        14
+      ]
+    ],
+    "classes": [
+      "Cold / Dormant",
+      "Steady Buzz",
+      "Surging Trend",
+      "Mega Viral Breakout"
+    ],
+    "per_class": {
+      "Cold / Dormant": {
+        "precision": 0.957,
+        "recall": 0.9914,
+        "f1_score": 0.9739,
+        "support": 583.0
+      },
+      "Steady Buzz": {
+        "precision": 0.9304,
+        "recall": 0.903,
+        "f1_score": 0.9165,
+        "support": 237.0
+      },
+      "Surging Trend": {
+        "precision": 1.0,
+        "recall": 0.8,
+        "f1_score": 0.8889,
+        "support": 65.0
+      },
+      "Mega Viral Breakout": {
+        "precision": 1.0,
+        "recall": 0.9333,
+        "f1_score": 0.9655,
+        "support": 15.0
+      }
+    },
+    "feature_importance": [
+      {
+        "feature": "max_vol_12h",
+        "importance": 0.5872
+      },
+      {
+        "feature": "velocity_3h",
+        "importance": 0.1064
+      },
+      {
+        "feature": "sent_mean_6h",
+        "importance": 0.0884
+      },
+      {
+        "feature": "degree_centrality",
+        "importance": 0.0403
+      },
+      {
+        "feature": "vol_curr",
+        "importance": 0.037
+      },
+      {
+        "feature": "day_of_week",
+        "importance": 0.0363
+      },
+      {
+        "feature": "vol_lag12",
+        "importance": 0.0231
+      },
+      {
+        "feature": "mean_vol_6h",
+        "importance": 0.0225
+      },
+      {
+        "feature": "std_vol_6h",
+        "importance": 0.0154
+      },
+      {
+        "feature": "sent_extremity",
+        "importance": 0.0062
+      },
+      {
+        "feature": "sent_curr",
+        "importance": 0.0061
+      },
+      {
+        "feature": "hour_sin",
+        "importance": 0.0054
+      },
+      {
+        "feature": "velocity_6h",
+        "importance": 0.0046
+      },
+      {
+        "feature": "vol_lag1",
+        "importance": 0.0045
+      },
+      {
+        "feature": "vol_lag6",
+        "importance": 0.004
+      },
+      {
+        "feature": "vol_lag2",
+        "importance": 0.0038
+      },
+      {
+        "feature": "velocity_1h",
+        "importance": 0.0034
+      },
+      {
+        "feature": "vol_lag3",
+        "importance": 0.0022
+      },
+      {
+        "feature": "accel_1h",
+        "importance": 0.0017
+      },
+      {
+        "feature": "hour_cos",
+        "importance": 0.0013
+      }
+    ]
+  },
+  "regression_metrics": {
+    "mae": 5.25,
+    "rmse": 10.63,
+    "r2_score": 0.8965,
+    "confidence_band_coverage": "80% (p10 to p90 interval)"
+  }
+}

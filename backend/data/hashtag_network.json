@@ -1,0 +1,1008 @@
+{
+  "nodes": [
+    {
+      "id": "#GTA6Trailer",
+      "name": "#GTA6Trailer",
+      "volume": 1667,
+      "category": "Gaming",
+      "degree_centrality": 0.0606,
+      "betweenness_centrality": 0.0448,
+      "closeness_centrality": 0.0867,
+      "degree": 4
+    },
+    {
+      "id": "#QuantumComputing",
+      "name": "#QuantumComputing",
+      "volume": 1708,
+      "category": "Technology",
+      "degree_centrality": 0.0606,
+      "betweenness_centrality": 0.0303,
+      "closeness_centrality": 0.1347,
+      "degree": 4
+    },
+    {
+      "id": "#DeepTech",
+      "name": "#DeepTech",
+      "volume": 432,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.1075,
+      "degree": 1
+    },
+    {
+      "id": "#Physics",
+      "name": "#Physics",
+      "volume": 427,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.1075,
+      "degree": 1
+    },
+    {
+      "id": "#MetaverseWork",
+      "name": "#MetaverseWork",
+      "volume": 1648,
+      "category": "Technology",
+      "degree_centrality": 0.0606,
+      "betweenness_centrality": 0.1268,
+      "closeness_centrality": 0.1317,
+      "degree": 4
+    },
+    {
+      "id": "#SpatialComputing",
+      "name": "#SpatialComputing",
+      "volume": 389,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.1055,
+      "degree": 1
+    },
+    {
+      "id": "#ClimateActionNow",
+      "name": "#ClimateActionNow",
+      "volume": 1663,
+      "category": "Environment",
+      "degree_centrality": 0.0606,
+      "betweenness_centrality": 0.0063,
+      "closeness_centrality": 0.0646,
+      "degree": 4
+    },
+    {
+      "id": "#IPL2026",
+      "name": "#IPL2026",
+      "volume": 1711,
+      "category": "Sports",
+      "degree_centrality": 0.0758,
+      "betweenness_centrality": 0.0159,
+      "closeness_centrality": 0.0833,
+      "degree": 5
+    },
+    {
+      "id": "#CricketTwitter",
+      "name": "#CricketTwitter",
+      "volume": 341,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0573,
+      "degree": 1
+    },
+    {
+      "id": "#Web3Gaming",
+      "name": "#Web3Gaming",
+      "volume": 1976,
+      "category": "Gaming",
+      "degree_centrality": 0.0758,
+      "betweenness_centrality": 0.1054,
+      "closeness_centrality": 0.1168,
+      "degree": 5
+    },
+    {
+      "id": "#CricketFever",
+      "name": "#CricketFever",
+      "volume": 337,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0573,
+      "degree": 1
+    },
+    {
+      "id": "#T20",
+      "name": "#T20",
+      "volume": 327,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0573,
+      "degree": 1
+    },
+    {
+      "id": "#StartupGrind",
+      "name": "#StartupGrind",
+      "volume": 2138,
+      "category": "Business",
+      "degree_centrality": 0.0909,
+      "betweenness_centrality": 0.0587,
+      "closeness_centrality": 0.1068,
+      "degree": 6
+    },
+    {
+      "id": "#SaaS",
+      "name": "#SaaS",
+      "volume": 347,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0889,
+      "degree": 1
+    },
+    {
+      "id": "#FintechInnovation",
+      "name": "#FintechInnovation",
+      "volume": 1682,
+      "category": "Business",
+      "degree_centrality": 0.0606,
+      "betweenness_centrality": 0.0909,
+      "closeness_centrality": 0.1251,
+      "degree": 4
+    },
+    {
+      "id": "#DigitalBanking",
+      "name": "#DigitalBanking",
+      "volume": 381,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.1012,
+      "degree": 1
+    },
+    {
+      "id": "#Sixer",
+      "name": "#Sixer",
+      "volume": 350,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0573,
+      "degree": 1
+    },
+    {
+      "id": "#GenerativeAI",
+      "name": "#GenerativeAI",
+      "volume": 2008,
+      "category": "Technology",
+      "degree_centrality": 0.0606,
+      "betweenness_centrality": 0.0303,
+      "closeness_centrality": 0.139,
+      "degree": 4
+    },
+    {
+      "id": "#AIRevolution",
+      "name": "#AIRevolution",
+      "volume": 1963,
+      "category": "Technology",
+      "degree_centrality": 0.0758,
+      "betweenness_centrality": 0.1455,
+      "closeness_centrality": 0.155,
+      "degree": 5
+    },
+    {
+      "id": "#MachineLearning",
+      "name": "#MachineLearning",
+      "volume": 318,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.12,
+      "degree": 1
+    },
+    {
+      "id": "#CyberSecurity2026",
+      "name": "#CyberSecurity2026",
+      "volume": 2456,
+      "category": "Technology",
+      "degree_centrality": 0.0909,
+      "betweenness_centrality": 0.1305,
+      "closeness_centrality": 0.1448,
+      "degree": 6
+    },
+    {
+      "id": "#Oscars2026",
+      "name": "#Oscars2026",
+      "volume": 1687,
+      "category": "Entertainment",
+      "degree_centrality": 0.0758,
+      "betweenness_centrality": 0.0047,
+      "closeness_centrality": 0.0758,
+      "degree": 5
+    },
+    {
+      "id": "#ChampionsLeague",
+      "name": "#ChampionsLeague",
+      "volume": 1728,
+      "category": "Sports",
+      "degree_centrality": 0.0909,
+      "betweenness_centrality": 0.0186,
+      "closeness_centrality": 0.0917,
+      "degree": 6
+    },
+    {
+      "id": "#Golazo",
+      "name": "#Golazo",
+      "volume": 279,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0611,
+      "degree": 1
+    },
+    {
+      "id": "#UCL",
+      "name": "#UCL",
+      "volume": 293,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0611,
+      "degree": 1
+    },
+    {
+      "id": "#Sustainability",
+      "name": "#Sustainability",
+      "volume": 720,
+      "category": "General",
+      "degree_centrality": 0.0303,
+      "betweenness_centrality": 0.0028,
+      "closeness_centrality": 0.0693,
+      "degree": 2
+    },
+    {
+      "id": "#RenewableEnergy",
+      "name": "#RenewableEnergy",
+      "volume": 431,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0441,
+      "degree": 1
+    },
+    {
+      "id": "#CodingWithAI",
+      "name": "#CodingWithAI",
+      "volume": 427,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.1102,
+      "degree": 1
+    },
+    {
+      "id": "#CleanTech",
+      "name": "#CleanTech",
+      "volume": 718,
+      "category": "General",
+      "degree_centrality": 0.0303,
+      "betweenness_centrality": 0.0028,
+      "closeness_centrality": 0.0693,
+      "degree": 2
+    },
+    {
+      "id": "#GamingCommunity",
+      "name": "#GamingCommunity",
+      "volume": 815,
+      "category": "General",
+      "degree_centrality": 0.0303,
+      "betweenness_centrality": 0.0559,
+      "closeness_centrality": 0.1001,
+      "degree": 2
+    },
+    {
+      "id": "#Esports",
+      "name": "#Esports",
+      "volume": 381,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0957,
+      "degree": 1
+    },
+    {
+      "id": "#FounderLife",
+      "name": "#FounderLife",
+      "volume": 324,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0889,
+      "degree": 1
+    },
+    {
+      "id": "#ZeroTrust",
+      "name": "#ZeroTrust",
+      "volume": 382,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.1137,
+      "degree": 1
+    },
+    {
+      "id": "#InfoSec",
+      "name": "#InfoSec",
+      "volume": 411,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.1137,
+      "degree": 1
+    },
+    {
+      "id": "#TechTrends",
+      "name": "#TechTrends",
+      "volume": 1540,
+      "category": "General",
+      "degree_centrality": 0.0606,
+      "betweenness_centrality": 0.1329,
+      "closeness_centrality": 0.155,
+      "degree": 4
+    },
+    {
+      "id": "#VentureCapital",
+      "name": "#VentureCapital",
+      "volume": 799,
+      "category": "General",
+      "degree_centrality": 0.0303,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.1043,
+      "degree": 2
+    },
+    {
+      "id": "#FutureOfWork",
+      "name": "#FutureOfWork",
+      "volume": 699,
+      "category": "General",
+      "degree_centrality": 0.0303,
+      "betweenness_centrality": 0.1231,
+      "closeness_centrality": 0.1436,
+      "degree": 2
+    },
+    {
+      "id": "#MatchDay",
+      "name": "#MatchDay",
+      "volume": 644,
+      "category": "General",
+      "degree_centrality": 0.0303,
+      "betweenness_centrality": 0.014,
+      "closeness_centrality": 0.0917,
+      "degree": 2
+    },
+    {
+      "id": "#EcoFriendly",
+      "name": "#EcoFriendly",
+      "volume": 413,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0441,
+      "degree": 1
+    },
+    {
+      "id": "#AngelInvesting",
+      "name": "#AngelInvesting",
+      "volume": 324,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0889,
+      "degree": 1
+    },
+    {
+      "id": "#OpenAI",
+      "name": "#OpenAI",
+      "volume": 298,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.12,
+      "degree": 1
+    },
+    {
+      "id": "#DataPrivacy",
+      "name": "#DataPrivacy",
+      "volume": 397,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.1137,
+      "degree": 1
+    },
+    {
+      "id": "#DigitalNomadLife",
+      "name": "#DigitalNomadLife",
+      "volume": 1667,
+      "category": "Lifestyle",
+      "degree_centrality": 0.0606,
+      "betweenness_centrality": 0.0028,
+      "closeness_centrality": 0.0606,
+      "degree": 4
+    },
+    {
+      "id": "#TravelVibes",
+      "name": "#TravelVibes",
+      "volume": 432,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0346,
+      "degree": 1
+    },
+    {
+      "id": "#WorkFromAnywhere",
+      "name": "#WorkFromAnywhere",
+      "volume": 429,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0346,
+      "degree": 1
+    },
+    {
+      "id": "#VirtualReality",
+      "name": "#VirtualReality",
+      "volume": 436,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.1055,
+      "degree": 1
+    },
+    {
+      "id": "#ManCity",
+      "name": "#ManCity",
+      "volume": 315,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0611,
+      "degree": 1
+    },
+    {
+      "id": "#DigitalAssets",
+      "name": "#DigitalAssets",
+      "volume": 419,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0957,
+      "degree": 1
+    },
+    {
+      "id": "#Football",
+      "name": "#Football",
+      "volume": 274,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0611,
+      "degree": 1
+    },
+    {
+      "id": "#ElectricVehicles",
+      "name": "#ElectricVehicles",
+      "volume": 1674,
+      "category": "Automotive",
+      "degree_centrality": 0.0758,
+      "betweenness_centrality": 0.0086,
+      "closeness_centrality": 0.0746,
+      "degree": 5
+    },
+    {
+      "id": "#Metaverse",
+      "name": "#Metaverse",
+      "volume": 436,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0957,
+      "degree": 1
+    },
+    {
+      "id": "#Fintech",
+      "name": "#Fintech",
+      "volume": 331,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0889,
+      "degree": 1
+    },
+    {
+      "id": "#DesignAI",
+      "name": "#DesignAI",
+      "volume": 385,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.1102,
+      "degree": 1
+    },
+    {
+      "id": "#Cinema",
+      "name": "#Cinema",
+      "volume": 341,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0421,
+      "degree": 1
+    },
+    {
+      "id": "#Hollywood",
+      "name": "#Hollywood",
+      "volume": 329,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0421,
+      "degree": 1
+    },
+    {
+      "id": "#RemoteWork",
+      "name": "#RemoteWork",
+      "volume": 425,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0346,
+      "degree": 1
+    },
+    {
+      "id": "#ViceCity",
+      "name": "#ViceCity",
+      "volume": 428,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0745,
+      "degree": 1
+    },
+    {
+      "id": "#FilmTwitter",
+      "name": "#FilmTwitter",
+      "volume": 355,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0421,
+      "degree": 1
+    },
+    {
+      "id": "#BestPicture",
+      "name": "#BestPicture",
+      "volume": 344,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0421,
+      "degree": 1
+    },
+    {
+      "id": "#AutonomousDriving",
+      "name": "#AutonomousDriving",
+      "volume": 328,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0485,
+      "degree": 1
+    },
+    {
+      "id": "#Tesla",
+      "name": "#Tesla",
+      "volume": 343,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0485,
+      "degree": 1
+    },
+    {
+      "id": "#BatteryTech",
+      "name": "#BatteryTech",
+      "volume": 353,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0485,
+      "degree": 1
+    },
+    {
+      "id": "#RedCarpet",
+      "name": "#RedCarpet",
+      "volume": 314,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0421,
+      "degree": 1
+    },
+    {
+      "id": "#SoloTravel",
+      "name": "#SoloTravel",
+      "volume": 410,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0346,
+      "degree": 1
+    },
+    {
+      "id": "#RealMadrid",
+      "name": "#RealMadrid",
+      "volume": 303,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0611,
+      "degree": 1
+    },
+    {
+      "id": "#GameOfTheYear",
+      "name": "#GameOfTheYear",
+      "volume": 409,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0745,
+      "degree": 1
+    },
+    {
+      "id": "#RockstarGames",
+      "name": "#RockstarGames",
+      "volume": 421,
+      "category": "General",
+      "degree_centrality": 0.0152,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0745,
+      "degree": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "#GTA6Trailer",
+      "target": "#ViceCity",
+      "weight": 428
+    },
+    {
+      "source": "#GTA6Trailer",
+      "target": "#GamingCommunity",
+      "weight": 420
+    },
+    {
+      "source": "#GTA6Trailer",
+      "target": "#GameOfTheYear",
+      "weight": 409
+    },
+    {
+      "source": "#GTA6Trailer",
+      "target": "#RockstarGames",
+      "weight": 421
+    },
+    {
+      "source": "#QuantumComputing",
+      "target": "#DeepTech",
+      "weight": 432
+    },
+    {
+      "source": "#QuantumComputing",
+      "target": "#Physics",
+      "weight": 427
+    },
+    {
+      "source": "#QuantumComputing",
+      "target": "#CyberSecurity2026",
+      "weight": 422
+    },
+    {
+      "source": "#QuantumComputing",
+      "target": "#TechTrends",
+      "weight": 435
+    },
+    {
+      "source": "#MetaverseWork",
+      "target": "#SpatialComputing",
+      "weight": 389
+    },
+    {
+      "source": "#MetaverseWork",
+      "target": "#Web3Gaming",
+      "weight": 388
+    },
+    {
+      "source": "#MetaverseWork",
+      "target": "#FutureOfWork",
+      "weight": 382
+    },
+    {
+      "source": "#MetaverseWork",
+      "target": "#VirtualReality",
+      "weight": 436
+    },
+    {
+      "source": "#ClimateActionNow",
+      "target": "#Sustainability",
+      "weight": 432
+    },
+    {
+      "source": "#ClimateActionNow",
+      "target": "#RenewableEnergy",
+      "weight": 431
+    },
+    {
+      "source": "#ClimateActionNow",
+      "target": "#CleanTech",
+      "weight": 419
+    },
+    {
+      "source": "#ClimateActionNow",
+      "target": "#EcoFriendly",
+      "weight": 413
+    },
+    {
+      "source": "#IPL2026",
+      "target": "#CricketTwitter",
+      "weight": 341
+    },
+    {
+      "source": "#IPL2026",
+      "target": "#CricketFever",
+      "weight": 337
+    },
+    {
+      "source": "#IPL2026",
+      "target": "#T20",
+      "weight": 327
+    },
+    {
+      "source": "#IPL2026",
+      "target": "#Sixer",
+      "weight": 350
+    },
+    {
+      "source": "#IPL2026",
+      "target": "#MatchDay",
+      "weight": 364
+    },
+    {
+      "source": "#Web3Gaming",
+      "target": "#GamingCommunity",
+      "weight": 395
+    },
+    {
+      "source": "#Web3Gaming",
+      "target": "#Esports",
+      "weight": 381
+    },
+    {
+      "source": "#Web3Gaming",
+      "target": "#DigitalAssets",
+      "weight": 419
+    },
+    {
+      "source": "#Web3Gaming",
+      "target": "#Metaverse",
+      "weight": 436
+    },
+    {
+      "source": "#StartupGrind",
+      "target": "#SaaS",
+      "weight": 347
+    },
+    {
+      "source": "#StartupGrind",
+      "target": "#FintechInnovation",
+      "weight": 431
+    },
+    {
+      "source": "#StartupGrind",
+      "target": "#FounderLife",
+      "weight": 324
+    },
+    {
+      "source": "#StartupGrind",
+      "target": "#VentureCapital",
+      "weight": 355
+    },
+    {
+      "source": "#StartupGrind",
+      "target": "#AngelInvesting",
+      "weight": 324
+    },
+    {
+      "source": "#StartupGrind",
+      "target": "#Fintech",
+      "weight": 331
+    },
+    {
+      "source": "#FintechInnovation",
+      "target": "#DigitalBanking",
+      "weight": 381
+    },
+    {
+      "source": "#FintechInnovation",
+      "target": "#CyberSecurity2026",
+      "weight": 410
+    },
+    {
+      "source": "#FintechInnovation",
+      "target": "#VentureCapital",
+      "weight": 444
+    },
+    {
+      "source": "#GenerativeAI",
+      "target": "#CodingWithAI",
+      "weight": 427
+    },
+    {
+      "source": "#GenerativeAI",
+      "target": "#AIRevolution",
+      "weight": 725
+    },
+    {
+      "source": "#GenerativeAI",
+      "target": "#TechTrends",
+      "weight": 431
+    },
+    {
+      "source": "#GenerativeAI",
+      "target": "#DesignAI",
+      "weight": 385
+    },
+    {
+      "source": "#AIRevolution",
+      "target": "#MachineLearning",
+      "weight": 318
+    },
+    {
+      "source": "#AIRevolution",
+      "target": "#FutureOfWork",
+      "weight": 317
+    },
+    {
+      "source": "#AIRevolution",
+      "target": "#OpenAI",
+      "weight": 298
+    },
+    {
+      "source": "#AIRevolution",
+      "target": "#TechTrends",
+      "weight": 302
+    },
+    {
+      "source": "#CyberSecurity2026",
+      "target": "#ZeroTrust",
+      "weight": 382
+    },
+    {
+      "source": "#CyberSecurity2026",
+      "target": "#InfoSec",
+      "weight": 411
+    },
+    {
+      "source": "#CyberSecurity2026",
+      "target": "#TechTrends",
+      "weight": 372
+    },
+    {
+      "source": "#CyberSecurity2026",
+      "target": "#DataPrivacy",
+      "weight": 397
+    },
+    {
+      "source": "#Oscars2026",
+      "target": "#Cinema",
+      "weight": 341
+    },
+    {
+      "source": "#Oscars2026",
+      "target": "#Hollywood",
+      "weight": 329
+    },
+    {
+      "source": "#Oscars2026",
+      "target": "#FilmTwitter",
+      "weight": 355
+    },
+    {
+      "source": "#Oscars2026",
+      "target": "#BestPicture",
+      "weight": 344
+    },
+    {
+      "source": "#Oscars2026",
+      "target": "#RedCarpet",
+      "weight": 314
+    },
+    {
+      "source": "#ChampionsLeague",
+      "target": "#Golazo",
+      "weight": 279
+    },
+    {
+      "source": "#ChampionsLeague",
+      "target": "#UCL",
+      "weight": 293
+    },
+    {
+      "source": "#ChampionsLeague",
+      "target": "#ManCity",
+      "weight": 315
+    },
+    {
+      "source": "#ChampionsLeague",
+      "target": "#MatchDay",
+      "weight": 280
+    },
+    {
+      "source": "#ChampionsLeague",
+      "target": "#Football",
+      "weight": 274
+    },
+    {
+      "source": "#ChampionsLeague",
+      "target": "#RealMadrid",
+      "weight": 303
+    },
+    {
+      "source": "#Sustainability",
+      "target": "#ElectricVehicles",
+      "weight": 288
+    },
+    {
+      "source": "#CleanTech",
+      "target": "#ElectricVehicles",
+      "weight": 299
+    },
+    {
+      "source": "#DigitalNomadLife",
+      "target": "#TravelVibes",
+      "weight": 432
+    },
+    {
+      "source": "#DigitalNomadLife",
+      "target": "#WorkFromAnywhere",
+      "weight": 429
+    },
+    {
+      "source": "#DigitalNomadLife",
+      "target": "#RemoteWork",
+      "weight": 425
+    },
+    {
+      "source": "#DigitalNomadLife",
+      "target": "#SoloTravel",
+      "weight": 410
+    },
+    {
+      "source": "#ElectricVehicles",
+      "target": "#AutonomousDriving",
+      "weight": 328
+    },
+    {
+      "source": "#ElectricVehicles",
+      "target": "#Tesla",
+      "weight": 343
+    },
+    {
+      "source": "#ElectricVehicles",
+      "target": "#BatteryTech",
+      "weight": 353
+    }
+  ],
+  "total_nodes": 67,
+  "total_edges": 66
+}
